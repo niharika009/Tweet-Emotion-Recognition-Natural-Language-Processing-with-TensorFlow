@@ -1,2 +1,2 @@
 # Tweet-Emotion-Recognition-Natural-Language-Processing-with-TensorFlow
-It does Tweet Emotion recognization using Natural langugae processing with tensorflow
+It does Tweet Emotion recognization using Natural Langugae processing with tensorflow
